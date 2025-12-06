@@ -115,7 +115,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # --- FUNCIÓN NUEVA: PROCESA MENSJES 'Top ...' ---
 def generar_top(texto):
-    RESTO_VUELTAS = 34  # EDITA AQUÍ EL TOTAL DE VUELTAS
+    RESTO_VUELTAS = 30  # EDITA AQUÍ EL TOTAL DE VUELTAS
 
     # Quitar "Top"
     contenido = texto[3:].strip()
@@ -287,6 +287,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
