@@ -82,6 +82,7 @@ PILOTOS_INFO = {
     "cas": ("Nick Cassidy",         "🇳🇿", 37, "🔴"),
 }
 
+
 # Botón inline que se añade debajo de los mensajes
 SUBSCRIBE_BUTTON = InlineKeyboardMarkup(
     [[InlineKeyboardButton("SUSCRÍBETE", url="https://t.me/FormulaEEsp")]]
@@ -286,6 +287,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
