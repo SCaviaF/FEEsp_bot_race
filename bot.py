@@ -14,71 +14,72 @@ KEYWORDS = {
 
 # -------- PILOTOS COMPLETOS --------
 PILOTOS_INFO = {
-    "müller":  ("Nico Müller",          "🇨🇭", 51, "🟣🟣"),
-    "muller":  ("Nico Müller",          "🇨🇭", 51, "🟣🟣"),
-    "wehrlein":("Pascal Wehrlein",      "🇩🇪", 94, "🟣🟣"),
+    "müller":  ("Nico Müller",          "🇨🇭", 51, "🟣"),
+    "muller":  ("Nico Müller",          "🇨🇭", 51, "🟣"),
+    "wehrlein":("Pascal Wehrlein",      "🇩🇪", 94, "🟣"),
 
-    "evans":   ("Mitch Evans",          "🇳🇿", 9,  "⚫🟡"),
-    "da costa":("António Félix da Costa","🇵🇹", 13, "⚫🟡"),
-    "costa":   ("António Félix da Costa","🇵🇹", 13, "⚫🟡"),
+    "evans":   ("Mitch Evans",          "🇳🇿", 9,  "⚫"),
+    "da costa":("António Félix da Costa","🇵🇹", 13, "⚫"),
+    "costa":   ("António Félix da Costa","🇵🇹", 13, "⚫"),
 
-    "rowland": ("Oliver Rowland",       "🇬🇧", 1,  "🔴⚪"),
-    "nato":    ("Norman Nato",          "🇫🇷", 23, "🔴⚪"),
+    "rowland": ("Oliver Rowland",       "🇬🇧", 1,  "🔴"),
+    "nato":    ("Norman Nato",          "🇫🇷", 23, "🔴"),
 
-    "de vries":("Nyck De Vries",        "🇳🇱", 21, "🔴⚫"),
-    "devries": ("Nyck De Vries",        "🇳🇱", 21, "🔴⚫"),
-    "mortara": ("Edoardo Mortara",      "🇨🇭", 48, "🔴⚫"),
+    "de vries":("Nyck De Vries",        "🇳🇱", 21, "🔴"),
+    "devries": ("Nyck De Vries",        "🇳🇱", 21, "🔴"),
+    "mortara": ("Edoardo Mortara",      "🇨🇭", 48, "🔴"),
 
-    "günther": ("Maximilian Günther",   "🇩🇪", 7,  "🟡⚫"),
-    "gunther": ("Maximilian Günther",   "🇩🇪", 7,  "🟡⚫"),
-    "barnard": ("Taylor Barnard",       "🇬🇧", 77, "🟡⚫"),
+    "günther": ("Maximilian Günther",   "🇩🇪", 7,  "🟡"),
+    "gunther": ("Maximilian Günther",   "🇩🇪", 7,  "🟡"),
+    "barnard": ("Taylor Barnard",       "🇬🇧", 77, "🟡"),
 
-    "dennis":  ("Jake Dennis",          "🇬🇧", 27, "🔴⚫"),
-    "drugovich":("Felipe Drugovich",    "🇧🇷", 28, "🔴⚫"),
+    "dennis":  ("Jake Dennis",          "🇬🇧", 27, "🔴"),
+    "drugovich":("Felipe Drugovich",    "🇧🇷", 28, "🔴"),
 
-    "eriksson":("Joel Eriksson",        "🇸🇪", 14, "🟢🔵"),
-    "buemi":   ("Sébastien Buemi",      "🇨🇭", 16, "🟢🔵"),
+    "eriksson":("Joel Eriksson",        "🇸🇪", 14, "🟢"),
+    "buemi":   ("Sébastien Buemi",      "🇨🇭", 16, "🟢"),
 
-    "martí":   ("Pepe Martí",           "🇪🇸", 3,  "🟡🟤"),
-    "marti":   ("Pepe Martí",           "🇪🇸", 3,  "🟡🟤"),
-    "tictum":  ("Dan Ticktum",          "🇬🇧", 33, "🟡🟤"),
-    "ticktum": ("Dan Ticktum",          "🇬🇧", 33, "🟡🟤"),
+    "martí":   ("Pepe Martí",           "🇪🇸", 3,  "🟡"),
+    "marti":   ("Pepe Martí",           "🇪🇸", 3,  "🟡"),
+    "tictum":  ("Dan Ticktum",          "🇬🇧", 33, "🟡"),
+    "ticktum": ("Dan Ticktum",          "🇬🇧", 33, "🟡"),
 
-    "di grassi":("Lucas di Grassi",     "🇧🇷", 11, "🟡🔵"),
-    "maloney": ("Zane Maloney",         "🇧🇧", 22, "🟡🔵"),
+    "di grassi":("Lucas di Grassi",     "🇧🇷", 11, "🟡"),
+    "maloney": ("Zane Maloney",         "🇧🇧", 22, "🟡"),
 
-    "vergne":  ("Jean-Éric Vergne",     "🇫🇷", 25, "🔴🔵"),
-    "cassidy": ("Nick Cassidy",         "🇳🇿", 37, "🔴🔵"),
+    "vergne":  ("Jean-Éric Vergne",     "🇫🇷", 25, "🔴"),
+    "cassidy": ("Nick Cassidy",         "🇳🇿", 37, "🔴"),
     
-    "mul":  ("Nico Müller",          "🇨🇭", 51, "🟣🟣"),
-    "weh":("Pascal Wehrlein",      "🇩🇪", 94, "🟣🟣"),
+    "mul":  ("Nico Müller",          "🇨🇭", 51, "🟣"),
+    "weh":("Pascal Wehrlein",      "🇩🇪", 94, "🟣"),
 
-    "eva":   ("Mitch Evans",          "🇳🇿", 9,  "⚫🟡"),
-    "dac":("António Félix da Costa","🇵🇹", 13, "⚫🟡"),
+    "eva":   ("Mitch Evans",          "🇳🇿", 9,  "⚫"),
+    "dac":("António Félix da Costa","🇵🇹", 13, "⚫"),
 
-    "row": ("Oliver Rowland",       "🇬🇧", 1,  "🔴⚪"),
-    "nat":    ("Norman Nato",          "🇫🇷", 23, "🔴⚪"),
+    "row": ("Oliver Rowland",       "🇬🇧", 1,  "🔴"),
+    "nat":    ("Norman Nato",          "🇫🇷", 23, "🔴"),
 
-    "dev": ("Nyck De Vries",        "🇳🇱", 21, "🔴⚫"),
-    "mor": ("Edoardo Mortara",      "🇨🇭", 48, "🔴⚫"),
+    "dev": ("Nyck De Vries",        "🇳🇱", 21, "🔴"),
+    "mor": ("Edoardo Mortara",      "🇨🇭", 48, "🔴"),
 
-    "gun": ("Maximilian Günther",   "🇩🇪", 7,  "🟡⚫"),
-    "bar": ("Taylor Barnard",       "🇬🇧", 77, "🟡⚫"),
+    "gun": ("Maximilian Günther",   "🇩🇪", 7,  "🟡"),
+    "bar": ("Taylor Barnard",       "🇬🇧", 77, "🟡"),
 
-    "den":  ("Jake Dennis",          "🇬🇧", 27, "🔴⚫"),
-    "dru":("Felipe Drugovich",    "🇧🇷", 28, "🔴⚫"),
+    "den":  ("Jake Dennis",          "🇬🇧", 27, "🔴"),
+    "dru":("Felipe Drugovich",    "🇧🇷", 28, "🔴"),
 
-    "eri":("Joel Eriksson",        "🇸🇪", 14, "🟢🔵"),
-    "bue":   ("Sébastien Buemi",      "🇨🇭", 16, "🟢🔵"),
+    "eri":("Joel Eriksson",        "🇸🇪", 14, "🟢"),
+    "bue":   ("Sébastien Buemi",      "🇨🇭", 16, "🟢"),
 
-    "mar":   ("Pepe Martí",           "🇪🇸", 3,  "🟡🟤"),
-    "tic": ("Dan Ticktum",          "🇬🇧", 33, "🟡🟤"),
+    "mar":   ("Pepe Martí",           "🇪🇸", 3,  "🟡"),
+    "tic": ("Dan Ticktum",          "🇬🇧", 33, "🟡"),
 
-    "dig":     ("Lucas di Grassi",      "🇧🇷", 11, "🟡🔵"),
-    "mal": ("Zane Maloney",         "🇧🇧", 22, "🟡🔵"),
+    "dig":     ("Lucas di Grassi",      "🇧🇷", 11, "🟡"),
+    "mal": ("Zane Maloney",         "🇧🇧", 22, "🟡"),
 
-    "ver":  ("Jean-Éric Vergne",     "🇫🇷", 25, "🔴🔵"),
-    "cas": ("Nick Cassidy",         "🇳🇿", 37, "🔴🔵"),
+    "ver":  ("Jean-Éric Vergne",     "🇫🇷", 25, "🔴"),
+    "jev":  ("Jean-Éric Vergne",     "🇫🇷", 25, "🔴"),
+    "cas": ("Nick Cassidy",         "🇳🇿", 37, "🔴"),
 }
 
 # Botón inline que se añade debajo de los mensajes
@@ -285,6 +286,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
